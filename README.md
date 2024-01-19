@@ -5,7 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30"/>
 
 - 📫 You can contact me through:<br>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="20"> douglasgjar@gmail.com</a> <br>
+<a href = "mailto:contato@douglasgjar"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="20"> douglasgjar@gmail.com</a> <br>
 <a href="https://www.linkedin.com/in/douglasgjar/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>/in/douglasgjar </a>  
 <div>
 <a href="https://github.com/douglasgjar">
