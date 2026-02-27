@@ -7,8 +7,4 @@
 - 📫 You can contact me through:<br>
 <a href = "mailto:contato@douglasgjar"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="20"> douglasgjar@gmail.com</a> <br>
 <a href="https://www.linkedin.com/in/douglasgjar/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>/in/douglasgjar </a>  
-<div>
-<a href="https://github.com/douglasgjar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgjar&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasgjar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
